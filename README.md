@@ -1,3 +1,3 @@
-# chestxrayCV
+# Chest X-Ray Analyser
 
-# computer vision project july 2022
+### CV Project - July 2022
